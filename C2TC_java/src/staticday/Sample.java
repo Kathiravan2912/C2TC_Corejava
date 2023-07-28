@@ -1,0 +1,6 @@
+package staticday;
+
+ class Sample {
+	 
+	 
+}
