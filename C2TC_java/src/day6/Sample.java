@@ -1,4 +1,4 @@
-package staticday;
+package day6;
 
  class Sample {
 	 

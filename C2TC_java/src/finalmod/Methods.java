@@ -1,4 +1,4 @@
-package com.cg.daysix.Final;
+package finalmod;
 
 public class Methods {
 

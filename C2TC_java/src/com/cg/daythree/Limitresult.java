@@ -1,4 +1,4 @@
-package DAY3;
+package com.cg.daythree;
 import java.util.Scanner;
 public class Limitresult{
 	public static void main(String args[])

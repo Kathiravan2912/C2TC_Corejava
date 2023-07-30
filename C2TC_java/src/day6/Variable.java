@@ -1,4 +1,4 @@
-package staticday;
+package day6;
 
 public class Variable {
 	static int a=0;
